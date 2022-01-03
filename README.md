@@ -1,3 +1,11 @@
+## Links:
+```
+
+Deployed link: https://jaimitpatel.github.io/Weather-Dashboard/#
+Github link: https://github.com/jaimitpatel/Weather-Dashboard
+
+```
+
 ## User Story:
 
 ```
@@ -25,6 +33,5 @@ THEN I am presented with the last searched city forecast
 
 ```
 ## Demo:
-
 ```
 
