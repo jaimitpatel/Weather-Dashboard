@@ -89,7 +89,7 @@ $("#searchCity").click(function() {
         searchHistory.push(city);
         localStorage.setItem("searchHistory", JSON.stringify(searchHistory));
         var cityListButton = $("<a>").attr({
-            class: "list-group-action-item",
+            class: "list-group-item list-group-item-action",
             href: "#"
         });
         cityListButton.text(city);
